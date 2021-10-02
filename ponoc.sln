@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ponoc", "ponoc\ponoc.csproj", "{2063E92C-FC07-4D0B-B6A1-D97C3E4D0785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2063E92C-FC07-4D0B-B6A1-D97C3E4D0785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063E92C-FC07-4D0B-B6A1-D97C3E4D0785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063E92C-FC07-4D0B-B6A1-D97C3E4D0785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063E92C-FC07-4D0B-B6A1-D97C3E4D0785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C97A83E-F294-4518-8C3B-42A5D9200731}
+	EndGlobalSection
+EndGlobal
