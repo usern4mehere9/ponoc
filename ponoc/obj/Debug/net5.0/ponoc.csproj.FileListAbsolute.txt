@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.exe
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.deps.json
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.runtimeconfig.json
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.dll
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ref\ponoc.dll
+C:\Users\Nikola\source\repos\ponoc\ponoc\bin\Debug\net5.0\ponoc.pdb
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.dll
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ref\ponoc.dll
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.pdb
+C:\Users\Nikola\source\repos\ponoc\ponoc\obj\Debug\net5.0\ponoc.genruntimeconfig.cache
